@@ -191,7 +191,7 @@ plt.legend()
 
 # %% change filename to test wanted images
 
-filename = "person1320_virus_2277.jpeg"
+filename = "NORMAL2-IM-0568-0001.jpeg"
 im = image.load_img(filename, target_size=(150, 150))
 img_arr = image.img_to_array(im)
 new_label = 0
