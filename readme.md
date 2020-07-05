@@ -13,5 +13,6 @@ Using a dataset from [Kaggle](https://www.kaggle.com/nih-chest-xrays/data), CNN 
 ### Dataset examples
 <img src="images/normal.jpeg" height ="150" alt="no pneumonia"/>
 No pneumonia
+<hr>
 <img src="images/bacterial.jpeg" height ="150" alt="bacterial pneumonia"/>
 Bacterial pneumonia
