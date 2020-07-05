@@ -11,7 +11,7 @@ Using a dataset from [Kaggle](https://www.kaggle.com/nih-chest-xrays/data), CNN 
 <img src="images/loss_plot.png" alt="loss plot"/>
 
 ### Dataset examples
-<img src="images/normal.png" alt="no pneumonia"/>
+<img src="images/normal.jpeg" height ="50" alt="no pneumonia"/>
 No pneumonia
-<img src="images/bacterial.png" alt="bacterial pneumonia"/>
+<img src="images/bacterial.jpeg" height ="50" alt="bacterial pneumonia"/>
 Bacterial pneumonia
